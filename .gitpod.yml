@@ -9,3 +9,9 @@ tasks:
 ports:
   - port: 3572
     onOpen: open-preview
+
+github:
+  prebuilds:
+    master: true
+    branches: true
+    pullRequests: true

@@ -12,10 +12,10 @@ const config = {
 		vite: {
 			server: {
 				hmr: {
-					protocol: 'ws',
+					protocol: 'ws'
 				}
 			}
-		},
+		}
 	}
 };
 

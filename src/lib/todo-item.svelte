@@ -1,5 +1,5 @@
-<script lang="ts">
-	export let Todo;
+<script>
+	// export let Todo;
 </script>
 
 <div class="todo">
